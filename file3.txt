@@ -1,2 +1,3 @@
 this is file3
 file3 is file3
+this is a new line
